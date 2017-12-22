@@ -1,0 +1,27 @@
+name: C:\Users\MiNdOs\Anaconda3\envs\rgbdseg
+channels:
+- defaults
+dependencies:
+- certifi=2017.11.5=py35h456c6ae_0
+- icc_rt=2017.0.4=h97af966_0
+- intel-openmp=2018.0.0=hd92c6cd_8
+- jpeg=9b=hb83a4c4_2
+- libpng=1.6.32=h140d38e_4
+- libtiff=4.0.9=h0f13578_0
+- mkl=2018.0.1=h2108138_4
+- numpy=1.13.3=py35hb7e80fb_0
+- opencv=3.3.1=py35h20b85fd_1
+- pip=9.0.1=py35h691316f_4
+- python=3.5.4=h1357f44_23
+- scipy=1.0.0=py35h75710e8_0
+- setuptools=36.5.0=py35h21a22e4_0
+- vc=14=h2379b0c_2
+- vs2015_runtime=14.0.25123=hd4c4e62_2
+- wheel=0.30.0=py35h38a90bc_1
+- wincertstore=0.2=py35hfebbdb8_0
+- zlib=1.2.11=h8395fce_2
+- pip:
+  - cython==0.27.3
+  - pylibfreenect2==0.1.2
+prefix: C:\Users\MiNdOs\Anaconda3\envs\rgbdseg
+
